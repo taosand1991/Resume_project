@@ -82,7 +82,7 @@ function App() {
 						         Abu-Dhabi, UAE
                      </span><br></br>
 						   <span>+971586310350</span><br></br>
-                     <span><a href='http://myresume.netlify.com'>myresume.netlify.com</a></span>
+                     <span><a href='http://mypersonalresume.netlify.com'>myresume.netlify.com</a></span>
 					   </p>
 
                </div>
